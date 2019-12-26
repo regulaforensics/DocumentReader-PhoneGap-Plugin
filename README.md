@@ -95,6 +95,6 @@ If you have issues with license verification when running the application, pleas
 The documentation on the SDK can be found [here](https://docs.regulaforensics.com/cordova).
 
 ## Additional information
-If you have any technical questions, feel free to [contact](mailto:cordova.support@regulaforensics.com) us or create issue [here](https://github.com/regulaforensics/DocumentReader-Cordova-Plugin/issues).
+If you have any technical questions, feel free to [contact](mailto:cordova.support@regulaforensics.com) us or create issue [here](https://github.com/regulaforensics/DocumentReader-PhoneGap-Plugin/issues).
 
 To use our SDK in your own app you need to [purchase](https://pipedrivewebforms.com/form/394a3706041290a04fbd0d18e7d7810f1841159) a commercial license.
