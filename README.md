@@ -25,6 +25,9 @@ $ cordova prepare
 4. Copy the `regula.license` file to the `DocumentReader/www` folder.
 5. Android:
   * Run `cordova run android` inside `DocumentReader` folder - this is just one way to run the app. You can also run it directly from within Android Studio.
+
+**Note**: if the following error is encountered: `Program type already present: android.support ...`, remove this line: `cordova.system.library.1=com.android.support:support-...` from the `project.properties` file.
+
 6. iOS:
   * Run `cordova run ios` inside `DocumentReader` folder - this is just one way to run the app. You can also run it directly from within Xcode.
 
