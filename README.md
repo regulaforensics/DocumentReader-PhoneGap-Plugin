@@ -1,3 +1,6 @@
+# [Deprecated]
+As Adobe has discontinued PhoneGap Build and ended investment in PhoneGap and Apache Cordova, this repository is deprecated now and won’t be updated anymore.
+
 #  Regula Document Reader (PhoneGap version)
 Regula Document Reader SDK allows you to read various kinds of identification documents, passports, driving licenses, ID cards, etc. All processing is performed completely  _**offline**_  on your device. No any data leaving your device.
 
